@@ -19,8 +19,9 @@
 
 /node_modules
 /yarn-error.log
-/node_modules/ bundle.js
-/node_modules/ bundle.js.map
+/node_modules/
+bundle.js
+bundle.js.map
 
 /public/assets
 .byebug_history
